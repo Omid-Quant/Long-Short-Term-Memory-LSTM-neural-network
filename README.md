@@ -1,5 +1,5 @@
 # Long Short-Term Memory (LSTM) neural network
-Impacts of Macroeconomics factors on stock Prices
+Impacts of Macroeconomics factors on stock Prices as part of my dissertation
 
 Stock Price Forecasting using LSTM
 This project focuses on forecasting stock prices in the US using data obtained from the OECD website. The project leverages a Long Short-Term Memory (LSTM) neural network, a type of Recurrent Neural Network (RNN), to predict future stock prices based on historical data and key economic indicators.
