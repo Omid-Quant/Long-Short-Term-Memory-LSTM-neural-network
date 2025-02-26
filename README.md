@@ -1,2 +1,2 @@
-# Structural-Vector-Auto-Regression-
-Impacts of GEopolitical Risks on Stock Prices
+# Long Short-Term Memory (LSTM) neural network
+Impacts of Macroeconomics factors on stock Prices
